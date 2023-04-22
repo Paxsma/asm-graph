@@ -10,4 +10,3 @@
 # Pre-requisites
 * Capstone: https://github.com/capstone-engine/capstone (Support for X86, aarch64)
 
-[test](asm-graph/main.c)
