@@ -1,7 +1,7 @@
 # asm-graph
 
 # Description
-* Graphs dissassembly branches.
+* Generates CFG.
 
 # Info
 * For now it supports x86, x64, amd-64. Aarch-64 support will soon be added.
